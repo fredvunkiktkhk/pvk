@@ -11,6 +11,7 @@
 * Kuidas kasutada pärast projekti installeerimist
 ### Contributing
 * Kirjeldus, kuidas teised saaksid sinu projekti panustada kõige paremini
+### Credits
 * Sektsioon, kus linkida projekti autoritele (highlight)
 ### License
 * Lisa litsents
