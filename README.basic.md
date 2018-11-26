@@ -1,17 +1,16 @@
 # README Koostamine
 ### Project name
-**Projekti nimi**
+* Projekti nimi
 ### Description
-**Lühike kirjeldus oma projektist**
+* Lühike kirjeldus oma projektist
 ### Table of Contents
-**Valikuline, kui on suur projekt siis lisada**
+* Valikuline, kui on suur projekt siis lisada
 ### Installation
-**Õpetus, kuidas installeerida antud projekti**
+* Õpetus, kuidas installeerida antud projekti
 ### Usage
-**Kuidas kasutada pärast projekti installeerimist**
+* Kuidas kasutada pärast projekti installeerimist
 ### Contributing
-**Kirjeldus, kuidas teised saaksid sinu projekti panustada kõige paremini**
-### Credits
-**Sektsioon, kus linkida projekti autoritele (highlight)**
+* Kirjeldus, kuidas teised saaksid sinu projekti panustada kõige paremini
+* Sektsioon, kus linkida projekti autoritele (highlight)
 ### License
-**Lisa litsents**
+* Lisa litsents
